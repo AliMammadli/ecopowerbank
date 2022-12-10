@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a93a820d.css",
+    "main.js": "/static/js/main.83432bc8.js",
+    "static/media/bg-gradient-7.png": "/static/media/bg-gradient-7.8fe79fbaa3085a808df5.png",
+    "static/media/bg-gradient-2.png": "/static/media/bg-gradient-2.f6a8954a7011d26ce41c.png",
+    "static/media/Inter.ttf": "/static/media/Inter.f1c87530d95f27534b4d.ttf",
+    "static/media/bg-gradient-3.png": "/static/media/bg-gradient-3.49a8eaf02db8c1e4278c.png",
+    "static/media/power-bank-1.png": "/static/media/power-bank-1.d8a7cbe9813fb290fd8c.png",
+    "static/media/power-bank-2.png": "/static/media/power-bank-2.faafd64ef564c12113ff.png",
+    "static/media/power-bank-3.png": "/static/media/power-bank-3.f697ab8bb1bd57760a66.png",
+    "static/media/FGKlara.ttf": "/static/media/FGKlara.fe443c4424b9ab929c39.ttf",
+    "static/media/ic-camera.png": "/static/media/ic-camera.46f4dd9d326d7bc20b07.png",
+    "static/media/ic-microscope.png": "/static/media/ic-microscope.b175bc6e531b06342eef.png",
+    "static/media/ic-test-tube.png": "/static/media/ic-test-tube.695bed6aacbe050a73fb.png",
+    "static/media/ic-battery.png": "/static/media/ic-battery.3777d1787b9983062128.png",
+    "static/media/ic-flashlight.png": "/static/media/ic-flashlight.8c4420e175b9c9c3a792.png",
+    "static/media/ic-toolbox.png": "/static/media/ic-toolbox.58f38e7bc7b7b1b18b09.png",
+    "static/media/logo-ecopower.png": "/static/media/logo-ecopower.98b6addfffe6cf67cc19.png",
+    "static/media/ic-low-battery.png": "/static/media/ic-low-battery.f1a7dd861e7e86140963.png",
+    "static/media/ic-watch.png": "/static/media/ic-watch.4c0151a7866a2c0dc17a.png",
+    "static/media/ic-laptop.png": "/static/media/ic-laptop.ffe8829067895a58fc05.png",
+    "static/media/ic-screwdriver.png": "/static/media/ic-screwdriver.05f56c1a3948c7d41153.png",
+    "static/media/ic-high-voltage.png": "/static/media/ic-high-voltage.6d524b5bcf5916728547.png",
+    "static/media/ic-plus.svg": "/static/media/ic-plus.5d3b6c35139faea5c0c0410e609adfb8.svg",
+    "static/media/ic-arrow.svg": "/static/media/ic-arrow.a66ab470f1f9e467143f752e35e5a037.svg",
+    "static/media/ic-marker.svg": "/static/media/ic-marker.5b8082bccea5200c9d44362f64646a2a.svg",
+    "static/media/ic-underline.svg": "/static/media/ic-underline.3bbd8e58f5f5afde4accfa70bc4ead2b.svg",
+    "index.html": "/index.html",
+    "main.a93a820d.css.map": "/static/css/main.a93a820d.css.map",
+    "main.83432bc8.js.map": "/static/js/main.83432bc8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a93a820d.css",
+    "static/js/main.83432bc8.js"
+  ]
+}
